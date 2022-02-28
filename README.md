@@ -1,0 +1,2 @@
+# MCTG
+MagicCardTradingGame
